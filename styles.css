@@ -1,0 +1,28 @@
+body{
+
+    background-image: url("https://wallpaperplay.com/walls/full/e/5/3/181223.jpg")
+}
+
+p{
+
+color: rgb(57, 225, 255);
+font-family: "Times New Roman", Times, serif ;
+font-size: 20px;
+
+}
+
+h1{
+    color: rgb(57, 225, 255);
+}
+
+h2{
+
+   color: rgb(57, 225, 255);
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
